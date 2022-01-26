@@ -4,7 +4,7 @@
 Join https://t.me/HardcoreUserbot to know more !
 ### The Easy Way
 
-[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://github.com/amanrajput2001/HardcoreUserbot)
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/amanrajput2001/HardcoreUserbot)
 
 ### The Normal Way
 
